@@ -1,0 +1,126 @@
+{
+    "status": true,
+    "message": "success",
+    "data": [
+        {
+            "id": "eyJzIjoiTEVEIiwiZSI6IjExNDA2MTA3MiIsImgiOiIyNzU0NDAyMSJ9",
+            "presentation": {
+                "title": "St Petersburg Pulkovo",
+                "suggestionTitle": "St Petersburg Pulkovo (LED)",
+                "subtitle": "Russia"
+            },
+            "navigation": {
+                "entityId": "114061072",
+                "entityType": "AIRPORT",
+                "localizedName": "St Petersburg Pulkovo",
+                "relevantFlightParams": {
+                    "skyId": "LED",
+                    "entityId": "114061072",
+                    "flightPlaceType": "AIRPORT",
+                    "localizedName": "St Petersburg Pulkovo"
+                },
+                "relevantHotelParams": {
+                    "entityId": "27544021",
+                    "entityType": "CITY",
+                    "localizedName": "St Petersburg"
+                }
+            }
+        },
+        {
+            "id": "eyJzIjoiQ09TIiwiZSI6Ijk1NjczNzA3IiwiaCI6IjI3NTM2NDcyIn0=",
+            "presentation": {
+                "title": "Colorado Springs Peterson Field",
+                "suggestionTitle": "Colorado Springs Peterson Field (COS)",
+                "subtitle": "United States"
+            },
+            "navigation": {
+                "entityId": "95673707",
+                "entityType": "AIRPORT",
+                "localizedName": "Colorado Springs Peterson Field",
+                "relevantFlightParams": {
+                    "skyId": "COS",
+                    "entityId": "95673707",
+                    "flightPlaceType": "AIRPORT",
+                    "localizedName": "Colorado Springs Peterson Field"
+                },
+                "relevantHotelParams": {
+                    "entityId": "27536472",
+                    "entityType": "CITY",
+                    "localizedName": "Colorado Springs"
+                }
+            }
+        },
+        {
+            "id": "eyJzIjoiUFNHIiwiZSI6IjEyODY2NzQ2NyIsImgiOiIyNzU0NjA0NSJ9",
+            "presentation": {
+                "title": "Petersburg",
+                "suggestionTitle": "Petersburg (PSG)",
+                "subtitle": "United States"
+            },
+            "navigation": {
+                "entityId": "128667467",
+                "entityType": "AIRPORT",
+                "localizedName": "Petersburg",
+                "relevantFlightParams": {
+                    "skyId": "PSG",
+                    "entityId": "128667467",
+                    "flightPlaceType": "AIRPORT",
+                    "localizedName": "Petersburg"
+                },
+                "relevantHotelParams": {
+                    "entityId": "27546045",
+                    "entityType": "CITY",
+                    "localizedName": "Petersburg"
+                }
+            }
+        },
+        {
+            "id": "eyJzIjoiVFBGIiwiZSI6IjEyOTA1NzAzMyIsImgiOiIyNzU0NDg3MyJ9",
+            "presentation": {
+                "title": "Tampa Peter O'Knight",
+                "suggestionTitle": "Tampa Peter O'Knight (TPF)",
+                "subtitle": "United States"
+            },
+            "navigation": {
+                "entityId": "129057033",
+                "entityType": "AIRPORT",
+                "localizedName": "Tampa Peter O'Knight",
+                "relevantFlightParams": {
+                    "skyId": "TPF",
+                    "entityId": "129057033",
+                    "flightPlaceType": "AIRPORT",
+                    "localizedName": "Tampa Peter O'Knight"
+                },
+                "relevantHotelParams": {
+                    "entityId": "27544873",
+                    "entityType": "CITY",
+                    "localizedName": "Tampa"
+                }
+            }
+        },
+        {
+            "id": "eyJzIjoiS0NTIiwiZSI6IjEyOTA1NDA1OSIsImgiOiI4MTk3ODExMiJ9",
+            "presentation": {
+                "title": "Kings Creek Station",
+                "suggestionTitle": "Kings Creek Station (KCS)",
+                "subtitle": "Australia"
+            },
+            "navigation": {
+                "entityId": "129054059",
+                "entityType": "AIRPORT",
+                "localizedName": "Kings Creek Station",
+                "relevantFlightParams": {
+                    "skyId": "KCS",
+                    "entityId": "129054059",
+                    "flightPlaceType": "AIRPORT",
+                    "localizedName": "Kings Creek Station"
+                },
+                "relevantHotelParams": {
+                    "entityId": "81978112",
+                    "entityType": "CITY",
+                    "localizedName": "Petermann"
+                }
+            }
+        }
+    ]
+}
